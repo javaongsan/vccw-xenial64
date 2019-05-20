@@ -71,16 +71,15 @@ packages = %w{
   gettext
   python-mysqldb
   imagemagick
-  php7.0
-  libapache2-mod-php7.0
-  php7.0-cli
-  php7.0-dev
-  php7.0-mbstring
-  php7.0-mcrypt
-  php7.0-mysql
-  php7.0-gd
-  php7.0-curl
-  php7.0-zip
+  php7.2
+  libapache2-mod-php7.2
+  php7.2-cli
+  php7.2-dev
+  php7.2-mbstring
+  php7.2-mysql
+  php7.2-gd
+  php7.2-curl
+  php7.2-zip
   php-xdebug
   php-imagick
 }
